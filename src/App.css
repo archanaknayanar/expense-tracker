@@ -114,3 +114,13 @@ input[type='number'] {
     width: 100%;
     font-size: 16px;
 }
+.add-btn {
+    display: block;
+    width: 100%;
+    padding: 15px 30px;
+    margin-top: 8px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #5aaf5a;
+    border-style: none;
+}
